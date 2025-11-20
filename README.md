@@ -32,7 +32,7 @@ Each file is self-contained and easy to read.
 | [Mancunian and K-Ordered LCS](https://www.hackerearth.com/problem/algorithm/mancunian-and-k-ordered-lcs-e6a4b8c6/) | [Mancunian and K-Ordered LCS.cpp](https://github.com/PavanYalavarthi/Hackerearth-Solutions/blob/main/Mancunian%20and%20K-Ordered%20LCS.cpp) | Dynamic Programming |
 | [Sherlock and Coprime Subset](https://www.hackerearth.com/practice/algorithms/dynamic-programming/bit-masking/practice-problems/algorithm/sherlock-and-coprime-subset/) | [Sherlock and Coprime Subset.cpp](https://github.com/PavanYalavarthi/Hackerearth-Solutions/blob/main/Sherlock%20and%20Coprime%20Subset.cpp) | Bitmasking DP |
 | [Shil and Palindrome Research](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/fenwick-binary-indexed-trees/practice-problems/algorithm/shil-and-palindrome-research/) | [Shil and Palindrome Research.cpp](https://github.com/PavanYalavarthi/Hackerearth-Solutions/blob/main/Shil%20and%20Palindrome%20Research.cpp) | BIT |
-| [String Matching](https://www.hackerearth.com/practice/algorithms/dynamic-programming/bit-masking/practice-problems/algorithm/string-matching-google-3dc355a5/) | [String Matching.cpp](https://github.com/PavanYalavarthi/Hackerearth-Solutions/blob/main/String%20Matching.cpp) | BIT |
+| [String Matching](https://www.hackerearth.com/practice/algorithms/dynamic-programming/bit-masking/practice-problems/algorithm/string-matching-google-3dc355a5/) | [String Matching.cpp](https://github.com/PavanYalavarthi/Hackerearth-Solutions/blob/main/String%20Matching.cpp) | Dynamic Programming |
 ---
 
 ## Contributions
